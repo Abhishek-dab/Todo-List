@@ -1,6 +1,6 @@
 # Todo List
 
-An elegant Todo organisation app built with Flutter and Firebase.
+An elegant Todo list app built with Flutter and Firebase to keep track of the tasks to be performed.
 
 # Features
 Users can create their own tasks by clicking on the '+' buttons.
